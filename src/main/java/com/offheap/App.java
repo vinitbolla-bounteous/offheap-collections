@@ -1,4 +1,4 @@
-package com.offheap.collections;
+package com.offheap;
 
 /**
  * Hello world!
