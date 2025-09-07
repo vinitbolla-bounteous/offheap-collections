@@ -1,4 +1,4 @@
-package com.offheap.collections;
+package com.offheap;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
